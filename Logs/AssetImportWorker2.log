@@ -1,0 +1,298 @@
+Unity Editor version:    2021.3.4f1 (cb45f9cae8b7)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.4 (Build 22F66)
+Darwin version:          22.5.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        24576 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Users/alessioantonucci/Downloads/social meme
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64899
+Successfully changed project path to: /Users/alessioantonucci/Downloads/social meme
+/Users/alessioantonucci/Downloads/social meme
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 97.63 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.73 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/alessioantonucci/Downloads/social meme/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+iMac preferred device: AMD Radeon Pro 580X (high power)
+Metal devices available: 1
+0: AMD Radeon Pro 580X (high power)
+Using device AMD Radeon Pro 580X (high power)
+Initializing Metal device caps: AMD Radeon Pro 580X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56337
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.4f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005527 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+[usbmuxd] Attached: 18 00008027-001370892EE8002E
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 46.25 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.25 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.792 seconds
+Domain Reload Profiling:
+	ReloadAssembly (792ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (550ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (132ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (154ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.035463 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 43.34 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  1.764 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1765ms)
+		BeginReloadAssembly (334ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (163ms)
+		EndReloadAssembly (1299ms)
+			LoadAssemblies (276ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (753ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (475ms)
+				ProcessInitializeOnLoadMethodAttributes (141ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.26 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.23 ms.
+Unloading 2477 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 274 unused Assets / (48.3 KB). Loaded Objects now: 2703.
+Memory consumption went from 35.3 MB to 35.3 MB.
+Total: 6.933311 ms (FindLiveObjects: 0.214010 ms CreateObjectMapping: 0.125427 ms MarkObjects: 6.323438 ms  DeleteObjects: 0.269442 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 445927.033103 seconds.
+  path: Assets/Plugins/iOS/Firebase/libFirebaseCppAuth.a
+  artifactKey: Guid(44a214618eb6473db34d3808eb040cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/iOS/Firebase/libFirebaseCppAuth.a using Guid(44a214618eb6473db34d3808eb040cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cf509029dee63c273744f346c872f6') in 0.311710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 250.662276 seconds.
+  path: Assets/Samples/In App Purchasing
+  artifactKey: Guid(3f65b40bb065e4a9ab67efd1fa23c14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/In App Purchasing using Guid(3f65b40bb065e4a9ab67efd1fa23c14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e24cc15a0c7d3b18f9dd27d76e9e213') in 0.004301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.965372 seconds.
+  path: Assets/Samples/In App Purchasing/4.1.3/01 Buying Consumables/README.md
+  artifactKey: Guid(da11a19ffa27d42f89744270fe74686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/In App Purchasing/4.1.3/01 Buying Consumables/README.md using Guid(da11a19ffa27d42f89744270fe74686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734bbd6b7e46f5520897eb681ffc38a6') in 1.039976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 425.457288 seconds.
+  path: Assets/NiceVibrations/Lofelt.NiceVibrations.asmdef
+  artifactKey: Guid(57a0b9bc628ab4740af4b6f1f0b2e134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NiceVibrations/Lofelt.NiceVibrations.asmdef using Guid(57a0b9bc628ab4740af4b6f1f0b2e134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987832b191f7b6bb3aadab787abcb837') in 0.102441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 223.216756 seconds.
+  path: Assets/Clean Vector Icons/T_0_empty_.png
+  artifactKey: Guid(6b6fd3f59ae45864286df43a2671b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_0_empty_.png using Guid(6b6fd3f59ae45864286df43a2671b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acce48d416dd2012d04dfb2dcfb823e5') in 0.216476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002200 seconds.
+  path: Assets/Clean Vector Icons/T_2_magnifier_+_.png
+  artifactKey: Guid(22fb9c2bd4a40f34e8897156a2986091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_magnifier_+_.png using Guid(22fb9c2bd4a40f34e8897156a2986091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8fe4039a80c173a2ac5d3e42599e27') in 0.018677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Clean Vector Icons/T_2_eye_light_.png
+  artifactKey: Guid(0d6fe719ca1a6304b86fd5a8d517fa48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_eye_light_.png using Guid(0d6fe719ca1a6304b86fd5a8d517fa48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7a177a7ebb14d1f7f0b9a43e4e8f32') in 0.016291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Clean Vector Icons/T_1_sword90_.png
+  artifactKey: Guid(5aa0d71d789c93a468898d8acfcf2a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_1_sword90_.png using Guid(5aa0d71d789c93a468898d8acfcf2a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e98a6a69788521bce29d60134dd7e86') in 0.025039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Clean Vector Icons/T_2_column_cross_.png
+  artifactKey: Guid(11e3d102a51b3e1409ff67d202690d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_column_cross_.png using Guid(11e3d102a51b3e1409ff67d202690d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c795b5f6e0c696f1d759c2e78e53d886') in 0.017330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Clean Vector Icons/T_1_magnifier_al_.png
+  artifactKey: Guid(97b5eb5724a79104cb6e0ad05b9db3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_1_magnifier_al_.png using Guid(97b5eb5724a79104cb6e0ad05b9db3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455be55b29ada6e4c8b15a22513e0f81') in 0.014099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Clean Vector Icons/T_2_letter_open_.png
+  artifactKey: Guid(80ccf6426cf5d81439e0d2d0d5e3a670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_letter_open_.png using Guid(80ccf6426cf5d81439e0d2d0d5e3a670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfafcab3ee78b20cd43ce80d67e43b07') in 0.015832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Clean Vector Icons/T_2_head_gladiator_.png
+  artifactKey: Guid(e128b01dab70e7a498a78577123c2db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_head_gladiator_.png using Guid(e128b01dab70e7a498a78577123c2db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec242e72e789122cb8a02093177a2ad') in 0.015395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Clean Vector Icons/T_2_lighthing_.png
+  artifactKey: Guid(ed8ef41e0593c444f89985400bb18768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_lighthing_.png using Guid(ed8ef41e0593c444f89985400bb18768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c875f674ca058c66d20b489fb601b373') in 0.016062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Clean Vector Icons/T_2_+_.png
+  artifactKey: Guid(c6b828ebf1d12ab448fc5b321c852c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_+_.png using Guid(c6b828ebf1d12ab448fc5b321c852c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5fdbf1a094811693bada819e6451c4') in 0.014373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Clean Vector Icons/T_2_coin_.png
+  artifactKey: Guid(be5129279b1dfca4ab4fa9ddc1c574f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_2_coin_.png using Guid(be5129279b1dfca4ab4fa9ddc1c574f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ab8c3e69d4483386e8452acf3e4b3b') in 0.015447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Clean Vector Icons/T_1_head_samurai_.png
+  artifactKey: Guid(c50ecf4cb0747f64487b52e59758d9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_1_head_samurai_.png using Guid(c50ecf4cb0747f64487b52e59758d9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f178981c6b8f82762d31c9ea795aeeef') in 0.015235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Clean Vector Icons/T_1_moon_full_.png
+  artifactKey: Guid(325d33c6d266f0e448f60efb34dde7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_1_moon_full_.png using Guid(325d33c6d266f0e448f60efb34dde7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fabcd5c9da6d160b856295db2decc45') in 0.016353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Clean Vector Icons/T_1_cursor_.png
+  artifactKey: Guid(ff17c68cd8dea9c4b99d8941d92ce176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Vector Icons/T_1_cursor_.png using Guid(ff17c68cd8dea9c4b99d8941d92ce176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a064ddeaa56e9cec5eacdd21386916ba') in 0.015002 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
