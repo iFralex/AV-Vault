@@ -1,0 +1,5 @@
+	"com.google.firebase.app": "6.16.1",
+	"com.google.firebase.auth": "6.16.1",
+	"com.google.firebase.database": "6.16.1",
+	"com.google.firebase.functions": "6.16.1",
+	"com.google.firebase.storage": "6.16.1",

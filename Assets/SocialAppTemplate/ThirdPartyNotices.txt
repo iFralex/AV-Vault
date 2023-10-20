@@ -1,0 +1,13 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. UnityMainThreadDispatcher
+- Apache License Version 2.0
+- As per the license, you can find it reproduced under SocialAppTemplate\Scripts\UnityMainThreadDispatcher\LICENSE
+
+B. NativeCamera
+- MIT license
+- As per the license, you can find it reproduced under SocialAppTemplate\Plugins\NativeCamera\LICENSE
+
+C. NativeGallery
+- MIT license
+- As per the license, you can find it reproduced under SocialAppTemplate\Plugins\NativeGallery\LICENSE

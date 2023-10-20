@@ -1,0 +1,17 @@
+{
+    "name": "SATEditor",
+    "references": [
+        "GUID:6a937e0d414fc1c43b9e71a6ff64d18b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
