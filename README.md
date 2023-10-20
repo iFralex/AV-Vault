@@ -1,4 +1,4 @@
-# Unity AV-Vault: A Deep Dive into a Meme-Centric Social App
+# AV-Vault: A Deep Dive into a Meme-Centric Social App
 
 **Overview:**
 AV-Vault is a feature-rich mobile social media application developed with Unity, with a primary focus on meme sharing, equipped with functionalities comparable to well-known platforms like Instagram. In this detailed technical description, we will explore each facet of the app's development, its myriad features, and the technologies and frameworks employed.
