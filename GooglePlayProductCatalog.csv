@@ -1,0 +1,5 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+com.shiloh_cuevas.av_vault.seven_day,published,managed_by_android,false,en_US;Vault PLUS for 7 days;Get 7 days of Vault PLUS membership,true,1990000,
+com.shiloh_cuevas.av_vault.one_month,published,managed_by_android,false,en_US;Vault PLUS for 1 month;Get 1 month of Vault PLUS membership,true,3990000,
+com.shiloh_cuevas.av_vault.three_months,published,managed_by_android,false,en_US;Vault PLUS for 3 months;Get 3 months of Vault PLUS membership,true,8990000,
+com.shiloh_cuevas.av_vault.infinity,published,managed_by_android,false,en_US;Vault PLUS Infinite;Get Vault PLUS membership permanently,true,29990000,
