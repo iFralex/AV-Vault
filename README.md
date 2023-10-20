@@ -3,6 +3,8 @@
 **Overview:**
 AV-Vault is a feature-rich mobile social media application developed with Unity, with a primary focus on meme sharing, equipped with functionalities comparable to well-known platforms like Instagram. In this detailed technical description, we will explore each facet of the app's development, its myriad features, and the technologies and frameworks employed.
 
+**Note:** To see my work, open the C# files you find in the [Assets folder](https://github.com/iFralex/AV-Vault/tree/main/Assets) and its subfolders.
+
 <img width="432" alt="Profile screen" src="https://github.com/iFralex/AV-Vault/assets/61825057/70b6bfd5-cc90-49d9-9410-566a0e772d10">
 <img width="432" alt="Wellcome screen" src="https://github.com/iFralex/AV-Vault/assets/61825057/d64a3041-61e1-4ed1-9c43-9b978908433c">
 
@@ -102,7 +104,7 @@ These are the best results of the app. The statistics refer to the period from 0
 
 - **iOS 14 Compliance:** The [iOS 14 Advertising Support](https://docs.unity3d.com/Manual/com.unity.ads.ios-support.html) package ensures adherence to transparency and privacy policies, aligning the app with the latest iOS standards.
 
-- **UI Enhancements:** [Animated Loading Icons](https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844) provide an animated loading icon, [Clean Vector Icons](https://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084) deliver aesthetically pleasing icons, and [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) is used for embellished text.
+- **UI Enhancements:** [Animated Loading Icons](https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844) provide an animated loading icon, [Clean Vector Icons](https://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084) and [UX Flat Icons](https://assetstore.unity.com/packages/2d/gui/icons/ux-flat-icons-free-202525) deliver aesthetically pleasing icons, and [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) is used for embellished text.
 
 - **Screenshots:** The [TinyScreenCapture](https://assetstore.unity.com/packages/tools/utilities/tiny-screen-capture-130517) package allows the app to capture in-editor screenshots directly from Unity.
 
